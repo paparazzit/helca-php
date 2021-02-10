@@ -61,7 +61,7 @@ if (width < 890 && width > 650) {
 	$(".products-logo").animate({ bottom: "40%" }, 800);
 }
 if (width <= 650) {
-	$(".products-logo").animate({ bottom: "15%" }, 800);
+	$(".products-logo").animate({ bottom: "0%" }, 800);
 }
 if (width <= 450) {
 	$(".float-bg").css("height", "123%");
