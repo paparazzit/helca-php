@@ -135,7 +135,7 @@
 						</p>
 						<p>Choose your size - 500ml & 1000ml</p>
 						<p>Now available on our web shop</p>
-						<button class="btn">visit our web shop</button>
+						<a class="btn" href="webshop.php">visit our web shop</a>
 					</div>
 				</div>
 			</article>

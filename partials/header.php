@@ -58,5 +58,16 @@
 			<div class="dropdownLink">
 				<a href="javascript:void(0)"><i class="fas fa-bars"></i></a>
 			</div>
+		<div class="desk-search colapse">
+			
+			<input type="text" name="search" placeholder="Search" class="colapse">
+			<label for="search">
+				<a href="javascript:void(0)">
+					<img src="img/search-blue.png" alt="" >
+				</a>
+					
+				
+			</label>
+		</div>
 		</nav>
 

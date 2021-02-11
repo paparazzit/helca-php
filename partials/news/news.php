@@ -13,7 +13,7 @@
 				Cras pellentesque elit mauris, ac porta massa pretium eu.
 				Integer sed interdum eros, blandit fringilla dolor. Nulla
 				volutpat quam... 
-				<a href="">Read More</a>
+				
 				</p>
 				<button class="btn">read more</button>
 				<button class="btn green">share</button>

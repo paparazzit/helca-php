@@ -159,6 +159,10 @@ $("#conditioner").click(function () {
 	$("#gel").removeClass("active-nav");
 });
 
+$(".search-white").click(function () {
+	$(".desk-search").toggleClass("colapse");
+	$(".desk-search input").toggleClass("colapse");
+});
 var mybutton = document.getElementById("side-nav");
 
 window.onscroll = function () {
