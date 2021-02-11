@@ -20,12 +20,31 @@ $(document).ready(function () {
 		items: 1,
 		autoplay: true,
 		autoplayHoverPause: true,
-		autoplayTimeout: 3000,
+		autoplayTimeout: 300000,
 		autoplaySpeed: 800,
 		animateIn: "fadeIn",
 		animateOut: "fadeOut",
 		dots: true,
 		responsiveRefreshRate: 200,
+	});
+	$("#news").owlCarousel({
+		items: 3,
+
+		loop: true,
+		margin: 40,
+		nav: false,
+
+		responsive: {
+			0: {
+				items: 1,
+			},
+			550: {
+				items: 2,
+			},
+			1000: {
+				items: 3,
+			},
+		},
 	});
 
 	$(".sidebar h2").addClass("animateH2");

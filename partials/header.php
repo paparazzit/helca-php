@@ -29,7 +29,15 @@
 					<li><a class="nav-link" href="webshop.php">web shop</a></li>
 				</ul>
 				<div class="right">
-					<img src="img/search.png" alt="" />
+				<div class="search-bar">
+					<a class="search"  href="javascript:void(0)">
+						<img src="img/search.png" alt="" class="search-white" />
+						<img src="img/search-blue.png" alt="" class="search-blue">
+					</a>
+					<input type="text" class="search-input" />
+				</div>
+					
+					
 					<div class="socials">
 						<a href=""><img src="img/instagram.png" alt="" /></a>
 						<a href=""><img src="img/facebook.png" alt="" /></a>

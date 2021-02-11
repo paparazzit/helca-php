@@ -26,35 +26,29 @@
 					<div class="item" id="item-1" data-hash="zero">
 						<h2 class="slide-headline">antibacterical</h2>
 						<p class="slide-text">
-							Lorem ipsum dolor sit amet consectetur adipisicing elit.
-							Consectetur, quaerat aut maiores debitis sapiente molestiae
-							temporibus nemo est corrupti dolorem quas dolore dignissimos
-							possimus inventore voluptatum in deleniti nam modi iusto quo quam
-							deserunt! Amet!
+						We made it for real adventure seekers, for travel junkies, for those who use public
+						 transport and cars, for those who visit supermarkets... in short - everyone needs it,
+						  it's basic hygiene!
 						</p>
-						<a class="btn" href="products-antibacterical.html">find out more</a>
+						<a class="btn" href="products-antibacterical.php">find out more</a>
 					</div>
 					<div class="item" id="item-2" data-hash="one">
 						<h2 class="slide-headline">daily hygiene</h2>
 						<p class="slide-text">
-							Lorem ipsum dolor sit amet consectetur adipisicing elit.
-							Consectetur, quaerat aut maiores debitis sapiente molestiae
-							temporibus nemo est corrupti dolorem quas dolore dignissimos
-							possimus inventore voluptatum in deleniti nam modi iusto quo quam
-							deserunt! Amet!
+						We deliver you optimized daily hygiene - from now on you don't have to worry about
+						 choosing the right products you can rely on. Mindfully picked ingredients meet deep
+						  nourishment for a pampering experience you will enjoy everyday.
 						</p>
-						<a class="btn" href="products-hygiene.html">find out more</a>
+						<a class="btn" href="products-hygiene.php">find out more</a>
 					</div>
 					<div class="item" id="item-3" data-hash="two">
 						<h2 class="slide-headline">babycare</h2>
 						<p class="slide-text">
-							Lorem ipsum dolor sit amet consectetur adipisicing elit.
-							Consectetur, quaerat aut maiores debitis sapiente molestiae
-							temporibus nemo est corrupti dolorem quas dolore dignissimos
-							possimus inventore voluptatum in deleniti nam modi iusto quo quam
-							deserunt! Amet!
+						Designed especially for little humans. Each product is based on a mild and non-irritating 
+						formula which provides perfect care for the most delicate skin. From now on you don't have to
+						 worry about choosing the right products you can rely on for your family.
 						</p>
-						<a class="btn" href="products-babycare.html">find out more</a>
+						<a class="btn" href="products-babycare.php">find out more</a>
 					</div>
 				</div>
 			</article>
@@ -157,6 +151,18 @@
 					<?php include "partials/news/news.php"?>
 					<?php include "partials/news/news.php"?>		
 				</div>
+				<div class="slider-news">
+				<div class="owl-carousel owl-theme" id="news">
+					<div class="item"><?php include "partials/news/news.php"?></div>
+					<div class="item"><?php include "partials/news/news.php"?></div>
+					<div class="item"><?php include "partials/news/news.php"?></div>
+					<div class="item"><?php include "partials/news/news.php"?></div>
+					<div class="item"><?php include "partials/news/news.php"?></div>
+					
+				
+                </div>
+				</div>
+				
 		       <a href="">all news...</a>
 			</article>
 		</section>
