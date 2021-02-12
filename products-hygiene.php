@@ -19,10 +19,9 @@
 					<div class="text-wrapper">
 						<h2>daily hygiene</h2>
 						<p>
-							We deliver you optimized daily hygiene - from now on you don't
-							have to worry about choosing the right products you can rely on.
-							Mindfully picked ingredients meet deep nourishment for a pampering
-							experience you will enjoy everyday.
+						We deliver you optimized daily hygiene - from now on you don't have to worry about 
+						choosing the right products you can rely on. Mindfully picked ingredients meet deep
+						 nourishment for a pampering experience you will enjoy every day.
 						</p>
 					</div>
 				</article>

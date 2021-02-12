@@ -1,3 +1,15 @@
+/* Sample function that returns boolean in case the browser is Internet Explorer*/
+function isIE() {
+	ua = navigator.userAgent;
+	/* MSIE used to detect old browsers and Trident used to newer ones*/
+	var is_ie = ua.indexOf("MSIE ") > -1 || ua.indexOf("Trident/") > -1;
+
+	return is_ie;
+}
+/* Create an alert to show if the browser is IE or not */
+if (isIE()) {
+	alert("It is InternetExplorer");
+}
 $(document).ready(function () {
 	$("#sync1").owlCarousel({
 		loop: true,
@@ -71,7 +83,7 @@ if (width < 890 && width > 450) {
 	$(".float-bg").animate({ top: "-100%" }, 800);
 }
 if (width > 890) {
-	$(".float-bg").animate({ left: "-100%" }, 800);
+	$(".float-bg").animate({ left: "-101%" }, 800);
 	$(".pozadina").animate({ left: "0" }, 800);
 	$(".left .content").animate({ opacity: "1" }, 400);
 	$(".products-logo").animate({ bottom: "35%" }, 800);
@@ -176,3 +188,24 @@ function scrollFunction() {
 		mybutton.style.opacity = "0";
 	}
 }
+$window = $(window);
+var distance = $(".nav").offset().top;
+$(window).scroll(function (e) {
+	var $el = $(".nav");
+
+	var isPositionFixed = $el.css("position") == "fixed";
+	if ($(this).scrollTop() >= distance && !isPositionFixed) {
+		$el.css({
+			position: "fixed",
+			top: "0px",
+			left: "0px",
+			width: "100%",
+			zIndex: "100",
+			opacity: "0.85",
+			transition: "0.5s all ease-in-out",
+		});
+	}
+	if ($(this).scrollTop() <= distance && isPositionFixed) {
+		$el.css({ position: "static", top: "0px", opacity: "1" });
+	}
+});

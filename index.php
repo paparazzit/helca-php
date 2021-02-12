@@ -12,7 +12,7 @@
 							<img src="img/proizvod grupisan - grupa2.png" alt="">
 						</div>
 						<div class="item" data-hash="two">
-							<img src="img/proizvod grupisan conditioner.png" alt="">
+							<img src="img/slider-baby-header.png" alt="">
 						</div>
 						
 					
@@ -27,26 +27,23 @@
 						<h2 class="slide-headline">antibacterical</h2>
 						<p class="slide-text">
 						We made it for real adventure seekers, for travel junkies, for those who use public
-						 transport and cars, for those who visit supermarkets... in short - everyone needs it,
-						  it's basic hygiene!
+					    transport and cars, for those who visit supermarkets…..in short - everyone needs it, it’s basic hygiene!
 						</p>
 						<a class="btn" href="products-antibacterical.php">find out more</a>
 					</div>
 					<div class="item" id="item-2" data-hash="one">
 						<h2 class="slide-headline">daily hygiene</h2>
 						<p class="slide-text">
-						We deliver you optimized daily hygiene - from now on you don't have to worry about
-						 choosing the right products you can rely on. Mindfully picked ingredients meet deep
-						  nourishment for a pampering experience you will enjoy everyday.
+						We deliver you optimized daily hygiene - from now on you don't have to worry about choosing the right products 
+						you can rely on. Mindfully picked ingredients meet deep nourishment for a pampering experience you will enjoy every day.
 						</p>
 						<a class="btn" href="products-hygiene.php">find out more</a>
 					</div>
 					<div class="item" id="item-3" data-hash="two">
 						<h2 class="slide-headline">babycare</h2>
 						<p class="slide-text">
-						Designed especially for little humans. Each product is based on a mild and non-irritating 
-						formula which provides perfect care for the most delicate skin. From now on you don't have to
-						 worry about choosing the right products you can rely on for your family.
+						Designed especially for little humans. Each product is based on a mild and non-irritating formula that provides perfect care for the
+						 most delicate skin. From now on you don't have to worry about choosing the right products you can rely on for your family.
 						</p>
 						<a class="btn" href="products-babycare.php">find out more</a>
 					</div>

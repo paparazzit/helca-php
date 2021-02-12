@@ -35,6 +35,7 @@ body {
 	overflow-x: auto;
 	font-family: "Roboto", Arial, Helvetica, "Open Sans";
 	font-size: 16px;
+	overflow-x: hidden;
 }
 a {
 	text-decoration: none;
@@ -294,7 +295,7 @@ header .slide {
 header .left .float-bg {
 	position: absolute;
 	z-index: -1;
-	width: 100%;
+	width: 100.5%;
 	height: 100%;
 	background: var(--bg-blue);
 	background-color: #00b2e3;
@@ -497,7 +498,7 @@ section {
 }
 /* news */
 .news {
-	padding: 50px 100px 0 100px;
+	padding: 50px 50px 0 100px;
 	position: relative;
 	background-color: white;
 	display: flex;
@@ -567,6 +568,7 @@ section {
 	color: black;
 	font-size: 0.85rem;
 	margin-bottom: 20px;
+	font-weight: 300;
 }
 .card-text .btn {
 	width: 40%;
@@ -1594,7 +1596,10 @@ nav ul li {
 	.search-input:focus {
 		outline: none;
 	}
-
+	.colapse {
+		right: -300px;
+		display: hidden;
+	}
 	/* slide */
 	.slide .owl-carousel {
 		width: 75%;
@@ -2063,11 +2068,12 @@ nav ul li {
 		width: 80%;
 		margin: 0 auto;
 	}
+
 	.nav ul {
 		display: flex;
 		flex-direction: column;
 		width: 80%;
-		padding: 15px 0;
+		padding: 0px 0px;
 	}
 	.nav ul li {
 		margin-bottom: 10px;
@@ -2217,9 +2223,12 @@ nav ul li {
 		width: 95%;
 	}
 	.nav ul li {
-		margin: 0 10px;
+		flex: 0 0 50%;
+		margin: 0 0px;
+		padding: 3px 0;
 		text-align: center;
 	}
+
 	.nav ul li a {
 		font-size: 0.75rem;
 	}

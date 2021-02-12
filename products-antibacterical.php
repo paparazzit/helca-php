@@ -19,9 +19,8 @@
 					<div class="text-wrapper">
 						<h2>antibacterilal</h2>
 						<p>
-							We made it for real adventure seekers, for travel junkies, for
-							those who use public transport and cars, for those who visit
-							supermarkets.....in short - everyone needs it, it's basic hygiene!
+						We made it for real adventure seekers, for travel junkies, for those who use public transport and cars,
+					    for those who visit supermarkets…..in short - everyone needs it, it’s basic hygiene! 
 						</p>
 					</div>
 				</article>

@@ -19,10 +19,10 @@
 					<div class="text-wrapper">
 						<h2>babycare</h2>
 						<p>
-							Designed especially for little humans. Each product is based on a
-							mild and non-irritating formula which provides perfect care for
-							the most delicate skin. From now on you don't have to worry about
-							choosing the right products you can rely on for your family.
+						Designed especially for little humans. Each product is based on a mild and 
+						non-irritating formula that 
+						provides perfect care for the most delicate skin. From now 
+						on you don't have to worry about choosing the right products you can rely on for your family.
 						</p>
 					</div>
 				</article>
