@@ -1837,7 +1837,7 @@ nav ul li {
 		border-right: none;
 		border-bottom: 1px solid var(--bg-blue);
 		text-align: center;
-		padding: 50px;
+		padding: 20px 50px 50px 50px;
 	}
 	.prod-shop {
 		flex: 0 0 90%;
