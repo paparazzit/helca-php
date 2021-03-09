@@ -3,6 +3,7 @@
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<script src="js/jquery-3.5.1.min.js"></script>
 		<link rel="stylesheet" href="css/owl.carousel.min.css" />
 		<link rel="stylesheet" href="css/owl.theme.default.min.css" />
 		<link
@@ -23,7 +24,9 @@
 			<a class="logo" href="index.php"><img src="img/nav-logo.png" alt="" /></a>
 			<div class="dropdown" id="navbar-toggle">
 				<ul class="topnav">
+				<li><a class="nav-link" href="index.php">home</a></li>
 					<li><a class="nav-link" href="about.php">about</a></li>
+					
 					<li><a class="nav-link" href="products.php">products</a></li>
 					<li><a class="nav-link" href="contact.php">contact</a></li>
 					<li><a class="nav-link" href="webshop.php">web shop</a></li>
@@ -70,4 +73,8 @@
 			</label>
 		</div>
 		</nav>
-
+<article class="alert-IE" id="alert-IE">
+	Atention: You are trying to view this page on Internet Explorer browser.
+	For optimal viewing experiance please change your browser
+	
+</article>

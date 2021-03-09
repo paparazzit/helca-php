@@ -1,6 +1,6 @@
 <div class="card">
 	  <div class="card-img">
-		<img src="img/card-img_1.png" alt="" />
+		<img loading="lazy" src="img/card-img_1.png" alt="" />
 	  </div>
 		<div class="card-body">
 				<div class="card-headlines">
@@ -15,8 +15,9 @@
 				volutpat quam... 
 				
 				</p>
-				<button class="btn">read more</button>
-				<button class="btn green">share</button>
+				<div class="buttons"><a href="news-single.php" class="btn btn-blue">read more</a>
+				<button class="btn btn-green">share</button></div>
+				
 			</div>
 	    </div>
 </div>

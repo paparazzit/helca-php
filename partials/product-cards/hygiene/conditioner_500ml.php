@@ -8,7 +8,7 @@
 						<div class="prod-text">
 							<p class="helca">helca</p>
 							<p class="prod-name">hair conditioner</p>
-							<p class="prod-spec">ethanol 70%</p>
+							<p class="prod-spec">Nourished hair</p>
 							<p class="prod-volume">500 ml</p>
 							<div class="quantity border">
 								<span class="remove">-</span>
@@ -17,7 +17,7 @@
 								<span class="add">+</span>
 							</div>
 							<div class="add-cart border">
-								<img src="img/products-shop/add-to-cart.png" alt="" />
+								<img loading="lazy" src="img/products-shop/add-to-cart.png" alt="" />
 								<a href="">Add to cart</a>
 							</div>
 						</div>

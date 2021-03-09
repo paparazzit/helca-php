@@ -18,7 +18,7 @@
 								<span class="add">+</span>
 							</div>
 							<div class="add-cart border">
-								<img src="img/products-shop/add-to-cart.png" alt="" />
+								<img  loading="lazy" src="img/products-shop/add-to-cart.png" alt="" />
 								<a href="">Add to cart</a>
 							</div>
 						</div>

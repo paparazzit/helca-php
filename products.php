@@ -5,7 +5,7 @@
 		<section class="products container">
 			<div class="products-logo">
 				<a href="products-antibacterical.php"
-					><img src="img/blue-logo-round.png" alt=""
+					><img  src="img/blue-logo-round.png" alt=""
 				/></a>
 				<a href="products-hygiene.php"
 					><img src="img/green-logo-round.png" alt=""

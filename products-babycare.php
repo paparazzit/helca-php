@@ -6,13 +6,13 @@
 			<div class="header-img img-3">
 				<div class="logos-left">
 					<a href="products-antibacterical.php"
-						><img src="img/blue-logo-round.png" alt=""
+						><img loading="lazy" src="img/blue-logo-round.png" alt=""
 					/></a>
 					<a href="products-hygiene.php"
-						><img src="img/green-logo-round.png" alt=""
+						><img loading="lazy" src="img/green-logo-round.png" alt=""
 					/></a>
 					<a href="products-babycare.php" class="active"
-						><img src="img/pink-logo-round.png" alt=""
+						><img loading="lazy" src="img/pink-logo-round.png" alt=""
 					/></a>
 				</div>
 				<article class="left">
@@ -40,20 +40,7 @@
 		<div class="relative">
 			<!-- prod list 1 -->
 			<section class="product-list" id="prod-1">
-				<article class="description">
-					<h2>baby wet wipes</h2>
-					<p>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
-						commodo semper ex in pharetra. Duis ultricies dignissim blandit.
-						Duis sollicitudin elit vitae mauris tempor, mollis mollis nulla
-						varius.
-					</p>
-					<p>
-						Nam nec elit purus. Integer a vulputate neque. Suspendisse potenti.
-						Phasellus cursus lectus a est vestibulum pretium. Maecenas ultrices
-						nisl elit, non porttitor leo dictum eget.
-					</p>
-				</article>
+				<?php include "partials/product-cards/prod-descriptions/baby_wipes.php"?>
 				<article class="prod-shop">
 				<?php include "partials/product-cards/baby-care/baby_wipes_15.php"?>
 				<?php include "partials/product-cards/baby-care/baby_wipes_72.php"?>

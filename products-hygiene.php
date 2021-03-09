@@ -6,13 +6,13 @@
 			<div class="header-img img-2">
 				<div class="logos-left">
 					<a href="products-antibacterical.php"
-						><img src="img/blue-logo-round.png" alt=""
+						><img loading="lazy" src="img/blue-logo-round.png" alt=""
 					/></a>
 					<a href="products-hygiene.php" class="active"
-						><img src="img/green-logo-round.png" alt=""
+						><img loading="lazy" src="img/green-logo-round.png" alt=""
 					/></a>
 					<a href="products-babycare.php"
-						><img src="img/pink-logo-round.png" alt=""
+						><img loading="lazy" src="img/pink-logo-round.png" alt=""
 					/></a>
 				</div>
 				<article class="left">

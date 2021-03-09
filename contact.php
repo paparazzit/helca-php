@@ -12,7 +12,7 @@
 					<input type="text" name="phone" placeholder="phone number" />
 					<input type="text" name="msg-title" placeholder="message title" />
 					<textarea name="" id="" rows="10" placeholder="message"></textarea>
-					<button class="btn">send</button>
+					<button class="btn btn-blue">send</button>
 				</form>
 			</div>
 			<?php include "partials/sidebar.php" ?>

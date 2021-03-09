@@ -18,10 +18,10 @@
 					</p>
 				</div>
 			</article>
-			<div class="logo-img"><img src="img/leaf.png" alt="" /></div>
+			<div class="logo-img"><img  loading="lazy" src="img/leaf.png" alt="" /></div>
 
 			<article class="right">
-				<img src="img/proizvodi-grupa.png" alt="" />
+				<img loading="lazy" src="img/proizvod grupisan - grupa2.png" alt="" />
 				<div class="pozadina"></div>
 			</article>
 		</section>
@@ -29,7 +29,7 @@
 		<!-- about -->
 		<section class="about">
 			<article class="left">
-				<img src="img/about.png" alt="" />
+				<img loading="lazy" src="img/about.png" alt="" />
 			</article>
 			<article class="right">
 				<div class="content">

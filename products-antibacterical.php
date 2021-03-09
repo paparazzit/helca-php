@@ -5,14 +5,14 @@
 		<section class="product-header">
 			<div class="header-img img-1">
 				<div class="logos-left">
-					<a href="products-antibacterical.php" class="active"
-						><img src="img/blue-logo-round.png" alt=""
+					<a  href="products-antibacterical.php" class="active"
+						><img loading="lazy" src="img/blue-logo-round.png" alt=""
 					/></a>
 					<a href="products-hygiene.php"
-						><img src="img/green-logo-round.png" alt=""
+						><img loading="lazy" src="img/green-logo-round.png" alt=""
 					/></a>
 					<a href="products-babycare.php"
-						><img src="img/pink-logo-round.png" alt=""
+						><img  loading="lazy" src="img/pink-logo-round.png" alt=""
 					/></a>
 				</div>
 				<article class="left">
@@ -45,6 +45,8 @@
 					<?php include "partials/product-cards/antibacterical/gel_70ml.php"?>
 					<?php include "partials/product-cards/antibacterical/gel_500ml.php"?>
 					<?php include "partials/product-cards/antibacterical/gel_1000ml.php"?>
+					<?php include "partials/product-cards/antibacterical/gel_3l.php"?>
+					<?php include "partials/product-cards/antibacterical/gel_5l.php"?>
 
 					
 				</article>
@@ -63,6 +65,11 @@
 				<?php include "partials/product-cards/antibacterical/wipes_15.php"?>
 				<?php include "partials/product-cards/antibacterical/wipes_72.php"?>
 					
+				</article>
+				<?php include "partials/product-cards/prod-descriptions/normal_wipes.php" ?>
+				<article class="prod-shop">
+				<?php include "partials/product-cards/antibacterical/normal_wipes_72pcs.php"?>
+				<?php include "partials/product-cards/antibacterical/normal_wipes_15pcs.php"?>
 				</article>
 			</section>
 		</div>

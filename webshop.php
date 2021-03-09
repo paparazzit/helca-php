@@ -23,6 +23,8 @@
 				<?php include "partials/product-cards/antibacterical/gel_70ml.php"?>
 					<?php include "partials/product-cards/antibacterical/gel_500ml.php"?>
 					<?php include "partials/product-cards/antibacterical/gel_1000ml.php"?>
+					<?php include "partials/product-cards/antibacterical/gel_3l.php"?>
+					<?php include "partials/product-cards/antibacterical/gel_5l.php"?>
 					<?php include "partials/product-cards/antibacterical/spray_70ml.php"?>
 					<?php include "partials/product-cards/antibacterical/wipes_15.php"?>
 				<?php include "partials/product-cards/antibacterical/wipes_72.php"?>
